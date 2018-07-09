@@ -1,6 +1,13 @@
+# This repo is obsolete now
+
+Thanks for visiting this repo, but all articles was migrated to the new repo: 
+- https://github.com/jizusun/jizusun.github.io
+
 # 孙继祖的博客
 
 Continous integration, continous development, and **continuous reflections on my work and life**
+
+
 
 ## Articles
 
